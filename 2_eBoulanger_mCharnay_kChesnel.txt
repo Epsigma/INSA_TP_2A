@@ -1,1 +1,3 @@
 Elias Boulanger-Matthieu Charnay-Kyllian Chesnel
+
+Nous observons qu'un fichier a disparu de la branche actuelle. Ceci est du au fait que celui-ci a été commité dans une autre branche, il y a ainsi été déplacé, et n'est plus présent dans notre branche actuelle.
