@@ -36,11 +36,13 @@ public class System_hospitalier {
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
 		return "requête analysée";
+	//Le rôle de cette méthode est d'analyser les requêtes envoyées au système hospitalier.
 	}
 	
 	private String comparerDonnes() {
 		// Comparaison des données
 		return "Cluster trouvé";
-	}
+	//Le rôle de cette méthode est de comparer les données enregistrées dans sa base de donnée, pour éventuellement en déduire l'apparition d'un cluster épidémique.	
+}
 
 }
